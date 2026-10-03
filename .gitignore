@@ -26,3 +26,4 @@ results/generated/
 # OS
 .DS_Store
 Thumbs.db
+!data/processed/scaler.pkl
